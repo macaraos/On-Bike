@@ -8,7 +8,7 @@ Acá unos ejemplos de los probelmas in situ
 
 ![ciclovia1](https://macaraos.github.io/README.md/img/ciclovia6.jpg)
 
-#### "¿Ciclovía? siempre pensé que era un estacionamiento"
+###### "¿Ciclovía? siempre pensé que era un estacionamiento"
 
 ![ciclovia2](https://macaraos.github.io/README.md/img/ciclovia4.jpg) 
 
