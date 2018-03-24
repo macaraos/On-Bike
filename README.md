@@ -6,5 +6,5 @@ Esta propuesta trata de mejorar la experiencia del ciclista. La infraestructura 
 
 Acá unos ejemplos de los probelmas in situ
 
-macaraos.github.io/README.md/img/ciclovia1.jpg
+macaraos.github.io/img/ciclovia1.jpg
 
