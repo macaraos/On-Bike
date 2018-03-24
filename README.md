@@ -24,4 +24,6 @@ Acá unos ejemplos de los probelmas in situ
 
 ## Mapa de Empata
 
-Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ves**, **que dice y que hace**, **lo que escucha** y **lo que piensa y siente**
+Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
+Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
+
