@@ -7,6 +7,8 @@ Esta propuesta trata de mejorar la experiencia del ciclista. La infraestructura 
 Acá unos ejemplos de los probelmas in situ
 
 ![ciclovia1](https://macaraos.github.io/README.md/img/ciclovia6.jpg) 
-![ciclovia2](https://macaraos.github.io/README.md/img/ciclovia4.jpg)
+![ciclovia2](https://macaraos.github.io/README.md/img/ciclovia4.jpg) Va sobre la vereda, los autos la usan de estacionamiento, y el desnivel en cada esquina puede provocar pinchazos
+
 ![ciclovia1](https://macaraos.github.io/README.md/img/ciclovia8.jpg)
 ![ciclovia2](https://macaraos.github.io/README.md/img/ciclovia7.jpg)
+
