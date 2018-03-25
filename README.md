@@ -1,6 +1,6 @@
 # On Bike
 
-Esta propuesta trata de mejorar la experiencia del ciclista. La infraestructura de las ciclovías es un gran problema para ellos. Después de una investigación, a lo que realmente apuntaron, es a la falta de educación vial, los automovilistas no los respetan, la personas andan por las ciclovías y los mismos ciclistas no se respetan entre ellos. Muchos han tenido accidentes por aproximación con autos o con personas, por lo que me llevó a pensar en una solución para que esto disminuya. 
+Aplicación que tiene como propuesta mejorar la experiencia del ciclista. La infraestructura de las ciclovías es un gran problema para ellos. Después de una investigación, a lo que realmente apuntaron, es a la falta de educación vial, los automovilistas no los respetan, la personas andan por las ciclovías y los mismos ciclistas no se respetan entre ellos. Muchos han tenido accidentes por aproximación con autos o con personas, por lo que me llevó a pensar en una solución para que esto disminuya. 
 
 ## Observaciones
 
@@ -58,3 +58,44 @@ Después de la investigación creé a 4 user personas para poder comprender sus 
 ![Personas](https://macaraos.github.io/README.md/img/UserFelipe.PNG)
 ![Personas](https://macaraos.github.io/README.md/img/UserGonzalo.PNG)
 ![Personas](https://macaraos.github.io/README.md/img/UserAndres.PNG)
+
+## Customer Journey Map
+
+En esta parte se pudo identificar lo que les gusta y lo que no, lo que les molesta y lo que les da miedo. 
+Es muy importante saber que está pensado o que están sintiendo los usuarios, porque así les podemos dar una solución a sus problemáticas.
+
+![JourneyMap](https://macaraos.github.io/README.md/img/journeyMap.PNG)
+
+## Estructura del contenido
+
+Ahora que sabemos cual es la problemática, podemos empezar con la estructura del contenido de la aplicación.
+
+![Estructura](https://macaraos.github.io/README.md/img/OrganizacionSite.PNG)
+
+## Definicón
+
+Ya que tengo una estructura, puedo idear y empezar a realizar los primeros bocetos de la aplicación móvil
+
+![Bocetos](https://macaraos.github.io/README.md/img/Sketches.PNG)
+
+Cuando realicé los testeos de estos sketches, iteré al menos 3 veces para entregarles a los usuarios la información clara como lo estaban pidiendo.
+
+## Testeo final
+
+En este paso se le dio a los usuarios unas tareas para que realizaran , las que concluyeron con bastante éxito. Lo que tuve que modificar fueron un par de elementos como el de retroceder la página. 
+Se vieron bastantes conformes, fue testeado con 2 de los usuarios que entreviste al comienzo.
+Encontraron que la aplicación es super útil, ya que tomó justo el problema que a ellos tanto los acompleja, que son los accidentes por aproximación.
+
+![Estructura](https://macaraos.github.io/README.md/img/Testeo1.PNG)
+![Estructura](https://macaraos.github.io/README.md/img/Testeo2.PNG)
+![Estructura](https://macaraos.github.io/README.md/img/Testeo3.PNG)
+
+## Conclusión
+
+¿Las personas quieren de verdad que las eduquen, que les digan qué hacer y cuándo hacerlo?, por lo que mire el trabajo con otra perspectiva, no poniéndome de parte de las personas que tenían que cambiar su forma de ser, si no del que necesitaba defenderse de esas agresiones, y es así que se me ocurrió OnBike, una aplicación que te permite planificar tu viaje desde que te levantas, hasta que llegas a tu lugar de destino sugiriendo rutas, mostrando las más conflictivas o con mayor tráfico. 
+
+Después de escuchar los problemas de más peso, como por ejemplo que sea atropellado en plena vía pública, se me ocurrió crear la opción  llamada SOS, una llamada que se la haces a un número  previamente registrado, el cual al momento de presionar el botón, éste envía tus coordenadas y dirección por SMS y por correo electrónico a la persona que escogiste. También puse un radar de aproximación, que te avisa cuando estás cerca de colisionar, ya sea por un peatón  como por un conductor, previniendo un posible accidente.
+
+En conclusión, este trabajo me encanto y lo encontré muy interesante,  porque me pude poner en las problemáticas diarias que sufren los ciclistas y sentir que los puedo ayudar con estas pequeñas ideas pero que al momento de aplicarlas son  grandes soluciones.
+
+# Gracias
