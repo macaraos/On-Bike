@@ -1,6 +1,8 @@
 # On Bike
 
-Aplicación que tiene como propuesta mejorar la experiencia del ciclista. La infraestructura de las ciclovías es un gran problema para ellos. Después de una investigación, a lo que realmente apuntaron, es a la falta de educación vial, los automovilistas no los respetan, la personas andan por las ciclovías y los mismos ciclistas no se respetan entre ellos. Muchos han tenido accidentes por aproximación con autos o con personas, por lo que me llevó a pensar en una solución para que esto disminuya. 
+## Objetivo
+
+Aplicación móvil que tiene como propuesta mejorar la experiencia del ciclista. La infraestructura de las ciclovías es un gran problema para ellos. Después de una investigación, a lo que realmente apuntaron, es a la falta de educación vial, los automovilistas no los respetan, la personas andan por las ciclovías y los mismos ciclistas no se respetan entre ellos. Muchos han tenido accidentes por aproximación con autos o con personas, por lo que me llevó a pensar en una solución para que esto disminuya. 
 
 ## Observaciones
 
@@ -22,13 +24,6 @@ Acá unos ejemplos de los probelmas in situ
 
 ###### "Existen muchos postes en la vía, además de árboles que dificultan y hacen peligroso el tránsito por el lugar."
 
-## Mapa de Empata
-
-Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
-Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
-
-![Empatía](https://macaraos.github.io/README.md/img/1521931044682428.PNG)
-
 ## Benchmark
 
 Realicé un proceso de análisis comparativo de otras apps en las que se destacan las ventajas y desventajas de los elementos  para traducir los resultados de la investigación en buenas prácticas.
@@ -37,22 +32,29 @@ Realicé un proceso de análisis comparativo de otras apps en las que se destaca
 
 ## Guia de entrevistas
 
-En esta ocación realicé entrevistas telefónicas, previamente agendadas.
+En esta ocación realicé entrevistas telefónicas a personas que viajan todos los dias en bicicleta, fueron entrevistas previamente agendadas guardando los <span><a href="https://drive.google.com/drive/folders/1xNxecwzBqaHpjjPLrHjAVO1zhNN2oUYr>audios.</a></span>
 
 ![Guia](https://macaraos.github.io/README.md/img/GuiaEntrevista.PNG)
 
-Lo que saque de esta información es que para las personas realemente es un tema andar por las calles sin seguridad, necesitan una solcucion, una ayuda para poder sentirse mas protegidos.
+Lo que saque de esta información es que para las personas realmente es un tema andar por las calles sin seguridad, necesitan una solcución, una ayuda para poder sentirse mas protegidos.
 Acá está la información recopilada de la entrevista.
 
 ![Sintesis](https://macaraos.github.io/README.md/img/Sintesis.PNG)
 
-También realicé una encuesta donde los resultados arrojaron casi lo mismo que la entrevista
+También se realizó una encuesta donde los resultados arrojaron casi lo mismo que la entrevista anterior
 
 ![Encuestas](https://macaraos.github.io/README.md/img/ResultadosEncuesta.PNG)
 
+## Mapa de Empata
+
+Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
+Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
+
+![Empatía](https://macaraos.github.io/README.md/img/1521931044682428.PNG)
+
 ## User persona
 
-Después de la investigación creé a 4 user personas para poder comprender sus necesidades e intereses, y así  conocer su entorno y saber que hacen en su diario vivir y así enfocarnos en sus requerimientos.
+Después de la investigación creé a 4 personas para poder comprender sus necesidades e intereses, y así  conocer su entorno y saber que hacen en su diario vivir y poder enfocarnos en sus requerimientos y darles posibles soluciones
 
 ![Personas](https://macaraos.github.io/README.md/img/UserAlejandra.PNG)
 ![Personas](https://macaraos.github.io/README.md/img/UserFelipe.PNG)
@@ -62,9 +64,16 @@ Después de la investigación creé a 4 user personas para poder comprender sus 
 ## Customer Journey Map
 
 En esta parte se pudo identificar lo que les gusta y lo que no, lo que les molesta y lo que les da miedo. 
-Es muy importante saber que está pensado o que están sintiendo los usuarios, porque así les podemos dar una solución a sus problemáticas.
+Es muy importante saber que están pensado o que están sintiendo los usuarios, porque así les podemos dar una solución a sus problemáticas.
 
 ![JourneyMap](https://macaraos.github.io/README.md/img/journeyMap.PNG)
+
+## Problem Statement, Hmw y What If
+
+Para poder sacar la propuesta de valor, nos planteamos las preguntas principales e hipotesis de una posible solución.
+Y así poder empezar con un producto.
+
+
 
 ## Estructura del contenido
 
@@ -86,9 +95,15 @@ En este paso se le dio a los usuarios unas tareas para que realizaran , las que 
 Se vieron bastantes conformes, fue testeado con 2 de los usuarios que entreviste al comienzo.
 Encontraron que la aplicación es super útil, ya que tomó justo el problema que a ellos tanto los acompleja, que son los accidentes por aproximación.
 
-![Estructura](https://macaraos.github.io/README.md/img/Testeo1.PNG)
-![Estructura](https://macaraos.github.io/README.md/img/Testeo2.PNG)
-![Estructura](https://macaraos.github.io/README.md/img/Testeo3.PNG)
+<p align="center"> 
+<img src="https://macaraos.github.io/README.md/img/Testeo1.PNG">
+</p>
+<p align="center"> 
+<img src="https://macaraos.github.io/README.md/img/Testeo2.PNG">
+</p>
+<p align="center"> 
+<img src="https://macaraos.github.io/README.md/img/Testeo3.PNG">
+</p>
 
 ## Prototipo
 
