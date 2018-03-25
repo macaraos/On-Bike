@@ -92,7 +92,7 @@ Encontraron que la aplicación es super útil, ya que tomó justo el problema qu
 
 ## Prototipo
 
-![prototipo](https://marvelapp.com/31c6233/screen/39720462)
+[Para verlo haz click acá](https://marvelapp.com/31c6233/screen/39720462)
 
 ## Conclusión
 
