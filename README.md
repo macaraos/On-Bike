@@ -28,3 +28,24 @@ Para saber que experimenta el usuario al momento de andar por la calle en su bic
 Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
 
 ![Empatía](https://macaraos.github.io/README.md/img/1521931044682428.PNG)
+
+## Benchmark
+
+Realicé un proceso de análisis comparativo de otras apps en las que se destacan las ventajas y desventajas de los elementos  para traducir los resultados de la investigación en buenas prácticas.
+
+![Benchmark](https://macaraos.github.io/README.md/img/Benchmark.PNG)
+
+## Guia de entrevistas
+
+En esta ocación realicé entrevistas telefónicas, previamente agendadas.
+
+![Benchmark](https://macaraos.github.io/README.md/img/GuiaEntrevista.PNG)
+
+Lo que saque de esta información es que para las personas realemente es un tema andar por las calles sin seguridad, necesitan una solcucion, una ayuda para poder sentirse mas protegidos.
+Acá está la información recopilada de la entrevista.
+
+![Benchmark](https://macaraos.github.io/README.md/img/Sintesis.PNG)
+
+También realicé una encuesta donde los resultados arrojaron casi lo mismo que la entrevista
+
+![Benchmark](https://macaraos.github.io/README.md/img/Sintesis.PNG)
