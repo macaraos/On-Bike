@@ -27,3 +27,4 @@ Acá unos ejemplos de los probelmas in situ
 Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
 Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
 
+![Empatía](https://macaraos.github.io/README.md/img/1521931044682428.PNG)
