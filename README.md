@@ -39,13 +39,22 @@ Realicé un proceso de análisis comparativo de otras apps en las que se destaca
 
 En esta ocación realicé entrevistas telefónicas, previamente agendadas.
 
-![Benchmark](https://macaraos.github.io/README.md/img/GuiaEntrevista.PNG)
+![Guia](https://macaraos.github.io/README.md/img/GuiaEntrevista.PNG)
 
 Lo que saque de esta información es que para las personas realemente es un tema andar por las calles sin seguridad, necesitan una solcucion, una ayuda para poder sentirse mas protegidos.
 Acá está la información recopilada de la entrevista.
 
-![Benchmark](https://macaraos.github.io/README.md/img/Sintesis.PNG)
+![Sintesis](https://macaraos.github.io/README.md/img/Sintesis.PNG)
 
 También realicé una encuesta donde los resultados arrojaron casi lo mismo que la entrevista
 
-![Benchmark](https://macaraos.github.io/README.md/img/Sintesis.PNG)
+![Encuestas](https://macaraos.github.io/README.md/img/ResultadosEncuesta.PNG)
+
+## User persona
+
+Después de la investigación creé a 4 user personas para poder comprender sus necesidades e intereses, y así  conocer su entorno y saber que hacen en su diario vivir y así enfocarnos en sus requerimientos.
+
+![Personas](https://macaraos.github.io/README.md/img/UserAlejandra.PNG)
+![Personas](https://macaraos.github.io/README.md/img/UserFelipe.PNG)
+![Personas](https://macaraos.github.io/README.md/img/UserGonzalo.PNG)
+![Personas](https://macaraos.github.io/README.md/img/UserAndres.PNG)
