@@ -90,6 +90,10 @@ Encontraron que la aplicación es super útil, ya que tomó justo el problema qu
 ![Estructura](https://macaraos.github.io/README.md/img/Testeo2.PNG)
 ![Estructura](https://macaraos.github.io/README.md/img/Testeo3.PNG)
 
+## Prototipo
+
+![prototipo](https://marvelapp.com/31c6233/screen/39720462)
+
 ## Conclusión
 
 ¿Las personas quieren de verdad que las eduquen, que les digan qué hacer y cuándo hacerlo?, por lo que mire el trabajo con otra perspectiva, no poniéndome de parte de las personas que tenían que cambiar su forma de ser, si no del que necesitaba defenderse de esas agresiones, y es así que se me ocurrió OnBike, una aplicación que te permite planificar tu viaje desde que te levantas, hasta que llegas a tu lugar de destino sugiriendo rutas, mostrando las más conflictivas o con mayor tráfico. 
