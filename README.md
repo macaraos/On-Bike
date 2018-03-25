@@ -45,7 +45,7 @@ También se realizó una encuesta donde los resultados arrojaron casi lo mismo q
 
 ![Encuestas](https://macaraos.github.io/README.md/img/ResultadosEncuesta.PNG)
 
-## Mapa de Empata
+## Mapa de Empatía
 
 Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
 Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
@@ -73,17 +73,25 @@ Es muy importante saber que están pensado o que están sintiendo los usuarios, 
 Para poder sacar la propuesta de valor, nos planteamos las preguntas principales e hipotesis de una posible solución.
 Y así poder empezar con un producto.
 
+![ProblemStatement](https://macaraos.github.io/README.md/img/Problem.PNG)
+![Hmw](https://macaraos.github.io/README.md/img/Hmw.PNG)
+![WhatIf](https://macaraos.github.io/README.md/img/WhatIf.PNG)
 
+Como propuesta de valor tenemos:
+- Generar alerta para sentirse seguro
+- Llegar a su destino sin problemas
+- Tener seguimiento de rutas
+- Tener una opción en caso de peligro
 
 ## Estructura del contenido
 
-Ahora que sabemos cual es la problemática, podemos empezar con la estructura del contenido de la aplicación.
+Ahora que sabemos cual es la problemática, podemos empezar con la estructura del contenido.
 
 ![Estructura](https://macaraos.github.io/README.md/img/OrganizacionSite.PNG)
 
 ## Definicón
 
-Ya que tengo una estructura, puedo idear y empezar a realizar los primeros bocetos de la aplicación móvil
+Ya que tenemos una estructura, se idear y empezar a realizar los primeros bocetos de la aplicación móvil.
 
 ![Bocetos](https://macaraos.github.io/README.md/img/Sketches.PNG)
 
@@ -91,9 +99,9 @@ Cuando realicé los testeos de estos sketches, iteré al menos 3 veces para entr
 
 ## Testeo final
 
-En este paso se le dio a los usuarios unas tareas para que realizaran , las que concluyeron con bastante éxito. Lo que tuve que modificar fueron un par de elementos como el de retroceder la página. 
+En este paso se le dio a los usuarios unas tareas para que realizaran , las que concluyeron con bastante éxito. Lo que tuve que modificar fueron un par de elementos como el de retroceder la página y cambiar el color de botones. 
 Se vieron bastantes conformes, fue testeado con 2 de los usuarios que entreviste al comienzo.
-Encontraron que la aplicación es super útil, ya que tomó justo el problema que a ellos tanto los acompleja, que son los accidentes por aproximación.
+Encontraron que la aplicación es útil, ya que tomó justo el problema que a ellos tanto los acompleja, que son los accidentes por aproximación.
 
 <p align="center"> 
 <img src="https://macaraos.github.io/README.md/img/Testeo1.PNG">
@@ -116,5 +124,3 @@ Encontraron que la aplicación es super útil, ya que tomó justo el problema qu
 Después de escuchar los problemas de más peso, como por ejemplo que sea atropellado en plena vía pública, se me ocurrió crear la opción  llamada SOS, una llamada que se la haces a un número  previamente registrado, el cual al momento de presionar el botón, éste envía tus coordenadas y dirección por SMS y por correo electrónico a la persona que escogiste. También puse un radar de aproximación, que te avisa cuando estás cerca de colisionar, ya sea por un peatón  como por un conductor, previniendo un posible accidente.
 
 En conclusión, este trabajo me encanto y lo encontré muy interesante,  porque me pude poner en las problemáticas diarias que sufren los ciclistas y sentir que los puedo ayudar con estas pequeñas ideas pero que al momento de aplicarlas son  grandes soluciones.
-
-# Gracias
