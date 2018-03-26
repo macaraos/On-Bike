@@ -1,4 +1,6 @@
 # On Bike
+---
+![Inicio](https://macaraos.github.io/On-Bike/img/bike3.PNG)
 
 ## Objetivo
 
@@ -96,6 +98,9 @@ Ya que tenemos una estructura, se idear y empezar a realizar los primeros boceto
 ![Bocetos](https://macaraos.github.io/On-Bike/img/Sketches.PNG)
 
 Cuando realicé los testeos de estos sketches, iteré al menos 3 veces para entregarles a los usuarios la información clara como lo estaban pidiendo.
+
+![ciclovia1](https://macaraos.github.io/On-Bike/img/1521601801333186.PNG)
+![ciclovia1](https://macaraos.github.io/On-Bike/img/1521602008340007.PNG)
 
 ## Testeo final
 
