@@ -34,7 +34,7 @@ Realicé un proceso de análisis comparativo de otras apps en las que se destaca
 
 ## Guia de entrevistas
 
-En esta ocación realicé entrevistas telefónicas a personas que viajan todos los dias en bicicleta, fueron entrevistas previamente agendadas guardando los <span><a href="https://drive.google.com/drive/folders/1xNxecwzBqaHpjjPLrHjAVO1zhNN2oUYr>audios."</a></span>
+En esta ocación realicé entrevistas telefónicas a personas que viajan todos los dias en bicicleta, fueron entrevistas previamente agendadas guardando los [audios](https://drive.google.com/drive/folders/1xNxecwzBqaHpjjPLrHjAVO1zhNN2oUYr)
 
 ![Guia](https://macaraos.github.io/On-Bike/img/GuiaEntrevista.PNG)
 
