@@ -133,3 +133,6 @@ En conclusión, este trabajo me encanto y lo encontré muy interesante,  porque 
 ---
 
 [Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
+
+---
+_Desarrollado para Laboratoria_
