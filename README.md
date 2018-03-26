@@ -129,3 +129,7 @@ Encontraron que la aplicación es útil, ya que tomó justo el problema que a el
 Después de escuchar los problemas de más peso, como por ejemplo que sea atropellado en plena vía pública, se me ocurrió crear la opción  llamada SOS, una llamada que se la haces a un número  previamente registrado, el cual al momento de presionar el botón, éste envía tus coordenadas y dirección por SMS y por correo electrónico a la persona que escogiste. También puse un radar de aproximación, que te avisa cuando estás cerca de colisionar, ya sea por un peatón  como por un conductor, previniendo un posible accidente.
 
 En conclusión, este trabajo me encanto y lo encontré muy interesante,  porque me pude poner en las problemáticas diarias que sufren los ciclistas y sentir que los puedo ayudar con estas pequeñas ideas pero que al momento de aplicarlas son  grandes soluciones.
+
+---
+
+[Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
