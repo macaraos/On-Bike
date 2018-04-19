@@ -6,31 +6,16 @@
 
 ## Objetivo
 
-Aplicación móvil que tiene como propuesta mejorar la experiencia del ciclista. La infraestructura de las ciclovías es un gran problema para ellos. Después de una investigación, a lo que realmente apuntaron, es a la falta de educación vial, los automovilistas no los respetan, la personas andan por las ciclovías y los mismos ciclistas no se respetan entre ellos. Muchos han tenido accidentes por aproximación con autos o con personas, por lo que me llevó a pensar en una solución para que esto disminuya. 
+Investigue cuáles eran los puntos con mayor presencia de ciclistas en Santiago, y salí a recopilar información relevante.
+Después de recorrer las calles, me dí cuenta que unos de los principales problemas era la infraestructura de algunas ciclovías, estas eran muy angostas, sin letreros que les indicaran a los automovilistas que por ahí cruza una ciclovía, estas estaban en lugares altamente peligrosos, etc.
+Otra cosa que pude ver es que las personas que transitan, lo hacen sobre las ciclovías, vi autos estacionados sobre ellas, paraderos de buses que para acceder a ellos tenían que pasar sobre las ciclovías, etc, así, un sin fin de problemas.
+Le pregunté a algunos ciclistas que circulaban por el sector, que pensaban sobre todo esto, de todo lo que había visto, y la gran mayoría apuntó a la falta de educación vial que hay en las personas y de los mismos ciclistas que no se respetan entre ellos.
 
-## Observaciones
-
-Acá unos ejemplos de los probelmas in situ
-
-![ciclovia1](https://macaraos.github.io/On-Bike/img/ciclovia6.jpg)
-
-###### "¿Ciclovía? siempre pensé que era un estacionamiento"
-
-![ciclovia2](https://macaraos.github.io/On-Bike/img/ciclovia4.jpg) 
-
-###### "Va sobre la vereda, los autos la usan de estacionamiento, y el desnivel en cada esquina puede provocar pinchazos"
-
-![ciclovia1](https://macaraos.github.io/On-Bike/img/ciclovia8.jpg)
-
-###### "Básicamente por la vereda, además en ese sector los autos siempre tienen la preferencia lo que hace peligroso transitar por ahí."
-
-![ciclovia2](https://macaraos.github.io/On-Bike/img/ciclovia7.jpg)
-
-###### "Existen muchos postes en la vía, además de árboles que dificultan y hacen peligroso el tránsito por el lugar."
+Muchos han tenido accidentes por aproximación con autos y con personas, por lo que ponen en riesgo su vida y la de los demás.
 
 ## Benchmark
 
-Realicé un proceso de análisis comparativo de otras apps en las que se destacan las ventajas y desventajas de los elementos  para traducir los resultados de la investigación en buenas prácticas.
+Investigue y compare otras aplicaciones que usan habitualmente los ciclistas, de ahí pude sacar lo que realmente era útil y lo que no.
 
 ![Benchmark](https://macaraos.github.io/On-Bike/img/Benchmark.PNG)
 
@@ -49,13 +34,6 @@ También se realizó una encuesta donde los resultados arrojaron casi lo mismo q
 
 ![Encuestas](https://macaraos.github.io/On-Bike/img/ResultadosEncuesta.PNG)
 
-## Mapa de Empatía
-
-Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
-Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
-
-![Empatía](https://macaraos.github.io/On-Bike/img/1521931044682428.PNG)
-
 ## User persona
 
 Después de la investigación creé a 4 personas para poder comprender sus necesidades e intereses, y así  conocer su entorno y saber que hacen en su diario vivir y poder enfocarnos en sus requerimientos y darles posibles soluciones
@@ -65,12 +43,12 @@ Después de la investigación creé a 4 personas para poder comprender sus neces
 ![Personas](https://macaraos.github.io/On-Bike/img/UserGonzalo.PNG)
 ![Personas](https://macaraos.github.io/On-Bike/img/UserAndres.PNG)
 
-## Customer Journey Map
+## Mapa de Empatía
 
-En esta parte se pudo identificar lo que les gusta y lo que no, lo que les molesta y lo que les da miedo. 
-Es muy importante saber que están pensado o que están sintiendo los usuarios, porque así les podemos dar una solución a sus problemáticas.
+Para saber que experimenta el usuario al momento de andar por la calle en su bicicleta, cuales son sus necesidades, realicé el mapa de empatía, que estudia las variables básicas: **lo que ve**,  **lo que dice o hace**,  **lo que escucha**  y  **lo que piensa o siente**
+Una vez definida la información, se hace un análisis con otras dos variables: **esfuerzo**  y  **resultado**
 
-![JourneyMap](https://macaraos.github.io/On-Bike/img/journeyMap.PNG)
+![Empatía](https://macaraos.github.io/On-Bike/img/1521931044682428.PNG)
 
 ## Problem Statement, Hmw y What If
 
@@ -87,28 +65,38 @@ Como propuesta de valor tenemos:
 - Tener seguimiento de rutas
 - Tener una opción en caso de peligro
 
-## Estructura del contenido
+## Brainstorming
 
-Ahora que sabemos cual es la problemática, podemos empezar con la estructura del contenido.
+Las ideas principales fueron:
+- Información de caminos en mal estado.
+- Guardar historial de recorridos.
+- Poner rutas.
+- Mostrar información de servicios técnicos.
+- Sensores de movimiento.
+- Gamification.
+- Tener botón de SOS.
+- Indicador de bicicleteros seguros.
+- Tener información de como debe comportarse un ciclista.
+- Información de pubs que son bikes amigables.
+- Saber ciclovas en mal estado o que no son continuas.
+
+## Estructura del contenido
 
 ![Estructura](https://macaraos.github.io/On-Bike/img/OrganizacionSite.PNG)
 
 ## Definicón
 
-Ya que tenemos una estructura, se idear y empezar a realizar los primeros bocetos de la aplicación móvil.
+Ya que tenemos una estructura, se comienza con la ideación y realización de los primeros bocetos de la aplicación móvil.
 
 ![Bocetos](https://macaraos.github.io/On-Bike/img/Sketches.PNG)
 
-Cuando realicé los testeos de estos sketches, iteré al menos 3 veces para entregarles a los usuarios la información clara como lo estaban pidiendo.
-
-![ciclovia1](https://macaraos.github.io/On-Bike/img/1521601801333186.PNG)
-![ciclovia1](https://macaraos.github.io/On-Bike/img/1521602008340007.PNG)
-
 ## Testeo final
 
-En este paso se le dio a los usuarios unas tareas para que realizaran , las que concluyeron con bastante éxito. Lo que tuve que modificar fueron un par de elementos como el de retroceder la página y cambiar el color de botones. 
-Se vieron bastantes conformes, fue testeado con 2 de los usuarios que entreviste al comienzo.
-Encontraron que la aplicación es útil, ya que tomó justo el problema que a ellos tanto los acompleja, que son los accidentes por aproximación.
+En este paso le dije a los usuarios que empezaran su dia como habitualmente lo hacen, que usaran la aplicación para planificar su viaje. Al principio tuve varios feedbacks de parte de ellos, como por ejemplo no tenia un boton que agregara las rutas favoritas, o el home era muy confuso, la estructura no se entendía muy bien, por lo que tuve que modificar la aplicación. 
+
+Encontraron que la aplicación es super útil, ya que tomó justo el problema que a ellos tanto los acompleja, que son los accidentes por aproximación.
+
+Nos dio paso para crear el MVP.
 
 <p align="center"> 
 <img src="https://macaraos.github.io/On-Bike/img/Testeo1.PNG">
@@ -126,11 +114,7 @@ Encontraron que la aplicación es útil, ya que tomó justo el problema que a el
 
 ## Conclusión
 
-¿Las personas quieren de verdad que las eduquen, que les digan qué hacer y cuándo hacerlo?, por lo que mire el trabajo con otra perspectiva, no poniéndome de parte de las personas que tenían que cambiar su forma de ser, si no del que necesitaba defenderse de esas agresiones, y es así que se me ocurrió OnBike, una aplicación que te permite planificar tu viaje desde que te levantas, hasta que llegas a tu lugar de destino sugiriendo rutas, mostrando las más conflictivas o con mayor tráfico. 
-
-Después de escuchar los problemas de más peso, como por ejemplo que sea atropellado en plena vía pública, se me ocurrió crear la opción  llamada SOS, una llamada que se la haces a un número  previamente registrado, el cual al momento de presionar el botón, éste envía tus coordenadas y dirección por SMS y por correo electrónico a la persona que escogiste. También puse un radar de aproximación, que te avisa cuando estás cerca de colisionar, ya sea por un peatón  como por un conductor, previniendo un posible accidente.
-
-En conclusión, este trabajo me encanto y lo encontré muy interesante,  porque me pude poner en las problemáticas diarias que sufren los ciclistas y sentir que los puedo ayudar con estas pequeñas ideas pero que al momento de aplicarlas son  grandes soluciones.
+Me gusto mucho este trabajo, por que me dio la oportunidad de conocer más a las personas, sus problemas y sus motivaciones. Siento que cada dia, con estos nuevos desafíos, puedo pulir mas mis habilidades, cometiendo errores se aprende, y siento que he aprendido mucho, y me gusta.
 
 ---
 
