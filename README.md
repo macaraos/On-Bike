@@ -59,6 +59,8 @@ Y así poder empezar con un producto.
 ![Hmw](https://macaraos.github.io/On-Bike/img/Hmw.PNG)
 ![WhatIf](https://macaraos.github.io/On-Bike/img/WhatIf.PNG)
 
+## Propuesta de valor
+
 Como propuesta de valor tenemos:
 - Generar alerta para sentirse seguro
 - Llegar a su destino sin problemas
